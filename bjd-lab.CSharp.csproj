@@ -74,13 +74,6 @@
     <Compile Include="Assets\AA\RA\Script\UIInputField.cs" />
     <Compile Include="Assets\AA\RA\Script\UILabelController.cs" />
     <Compile Include="Assets\AA\RA\Script\UIReport.cs" />
-    <Compile Include="Assets\M\Scripts\Person\CurveControlledBob.cs" />
-    <Compile Include="Assets\M\Scripts\Person\FOVKick.cs" />
-    <Compile Include="Assets\M\Scripts\Person\LerpControlledBob.cs" />
-    <Compile Include="Assets\M\Scripts\Person\MouseController.cs" />
-    <Compile Include="Assets\M\Scripts\Person\PlayerController.cs" />
-    <Compile Include="Assets\M\Scripts\Person\Raycasting.cs" />
-    <Compile Include="Assets\M\Scripts\PhysicProperties.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AA\RA\Prefabs\Metodics.txt" />
