@@ -3,7 +3,6 @@ using System.Collections;
 
 public class ObjectRotationViewers : MonoBehaviour {
     private float RotationSpeed = 1500;
-    private float MoveSpeed = 10.0f;
     private float ZoomSpeed = 15.3f;
 
 
@@ -29,8 +28,6 @@ public class ObjectRotationViewers : MonoBehaviour {
 
         Vector3 camDir = cam.transform.forward;
         Vector3 camLeft = Vector3.Cross(camDir, Vector3.down);
-        Vector3 camDown = Vector3.Cross(camDir, camLeft);
-        //Vector3 camUp = Vector3.Cross(camLeft, camDir);
 
         float dx = Input.GetAxis("Mouse X");
         float dy = Input.GetAxis("Mouse Y");

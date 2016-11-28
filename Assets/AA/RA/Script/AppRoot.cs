@@ -129,6 +129,7 @@ public class AppRoot : MonoBehaviour {
                 AppRootStatic.SetLabelText(TypeLabel.Header, Head.Header[NumberRoom]);
                 AppRootStatic.SetActiveLabel(TypeLabel.Task, false);
                 AppRootStatic.SetActiveButton(TypeButton.Task, false);
+                AppRootStatic.ActiveInstrument(false);
                 oWindows = true;
                 return;
             case 6:
@@ -147,6 +148,7 @@ public class AppRoot : MonoBehaviour {
                 AppRootStatic.SetLabelText(TypeLabel.Header, Head.Header[NumberRoom]);
                 AppRootStatic.SetActiveLabel(TypeLabel.Task, false);
                 AppRootStatic.SetActiveButton(TypeButton.Task, false);
+                AppRootStatic.ActiveInstrument(false);
                 oWindows = true;
                 return;
             default:
@@ -166,6 +168,8 @@ public class AppRoot : MonoBehaviour {
                     AppRootStatic.SetActiveButton(TypeButton.HideHelper, true);
                     AppRootStatic.SetActiveButton(TypeButton.Task, true);
                     AppRootStatic.NormalButtonHide();
+                    AppRootStatic.ActiveInstrument(true);
+                    AppRootStatic.ConfInstrument();
                     oWindows = false;
                 }
                 AppRootStatic.SetLabelText(TypeLabel.Header,Head.Header[NumberRoom]);
@@ -189,14 +193,17 @@ public class AppRoot : MonoBehaviour {
                 case 0:
                     AppRootStatic.SetButtonText(TypeButton.NextInstr, "Анемометр");
                     AppRootStatic.SetButtonText(TypeButton.PrevInstr, "Гигрометр");
+                    AppRootStatic.ConfInstrument();
                     break;
                 case 1:
                     AppRootStatic.SetButtonText(TypeButton.NextInstr, "Гигрометр");
                     AppRootStatic.SetButtonText(TypeButton.PrevInstr, "Термометр");
+                    AppRootStatic.ConfInstrument();
                     break;
                 case 2:
                     AppRootStatic.SetButtonText(TypeButton.NextInstr, "Термометр");
                     AppRootStatic.SetButtonText(TypeButton.PrevInstr, "Анемометр");
+                    AppRootStatic.ConfInstrument();
                     break;
             }
     }
@@ -225,6 +232,25 @@ public class AppRoot : MonoBehaviour {
             AppRootStatic.SetActiveTaskIndecator(i+1,Task[i]);
 
     }
-    
+
+    public TypeInstrument GetInstrument() {
+        switch (Instrument)
+        {
+            case 0: return TypeInstrument.Thermometr;
+            case 1: return TypeInstrument.Animometr;
+            case 2: return TypeInstrument.Hygrometr;
+                
+        }
+        
+        return TypeInstrument.None;
+    }
+
+    public string GetValueThemperature() { return Variants.Rooms[NumberRoom - 1].ValueThermometr; }
+    public string GetValueAnimometr() { return Variants.Rooms[NumberRoom - 1].ValueAnimometr; }
+    public string GetValueHygrometrDry() { return Variants.Rooms[NumberRoom - 1].ValueHygrometeDry; }
+    public string GetValueHygrometrWet() { return Variants.Rooms[NumberRoom - 1].ValueHygrometeWet; }
+
+    public void SetRunedTask() { AppRootStatic.SetActiveTaskIndecator((NumberRoom-1)*3+(Instrument+1),true); }
+
 }
 
