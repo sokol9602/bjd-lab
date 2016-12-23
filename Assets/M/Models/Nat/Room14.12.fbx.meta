@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: c8b09e5a08ffb544dbc714be225b78c5
+timeCreated: 1481736847
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: box
+    100002: box.002
+    100004: box.003
+    100006: box.004
+    100008: box.005
+    100010: box.006
+    100012: box.007
+    100014: box.008
+    100016: box.009
+    100018: box.010
+    100020: box.011
+    100022: box.012
+    100024: box.013
+    100026: box.014
+    100028: box.016
+    100030: box.017
+    100032: box.018
+    100034: box.019
+    100036: box.020
+    100038: box.022
+    100040: box.023
+    100042: box.024
+    100044: box.025
+    100046: box.026
+    100048: box.028
+    100050: box.029
+    100052: box.032
+    100054: box.033
+    100056: box.034
+    100058: box.035
+    100060: box.036
+    100062: chair 1
+    100064: door
+    100066: door.001
+    100068: koleso 1
+    100070: koleso 2
+    100072: koleso 3
+    100074: koleso 4
+    100076: lamp kark
+    100078: lamp kark.001
+    100080: List
+    100082: pallet
+    100084: pallet.001
+    100086: pallet.002
+    100088: pallet.003
+    100090: pallet.004
+    100092: pallet.005
+    100094: pallet.006
+    100096: pallet.007
+    100098: Pen
+    100100: potolok
+    100102: room
+    100104: //RootNode
+    100106: Stakan
+    100108: Stand
+    100110: Stand 1
+    100112: Stand 10
+    100114: Stand 11
+    100116: Stand 12
+    100118: Stand 13
+    100120: Stand 14
+    100122: Stand 15
+    100124: Stand 16
+    100126: Stand 17
+    100128: Stand 2
+    100130: Stand 3
+    100132: Stand 4
+    100134: Stand 4.001
+    100136: Stand 5
+    100138: Stand 6
+    100140: Stand 7
+    100142: Stand 7.001
+    100144: Stand 8
+    100146: Stand 9
+    100148: strem
+    100150: Table
+    100152: telega 1
+    400000: box
+    400002: box.002
+    400004: box.003
+    400006: box.004
+    400008: box.005
+    400010: box.006
+    400012: box.007
+    400014: box.008
+    400016: box.009
+    400018: box.010
+    400020: box.011
+    400022: box.012
+    400024: box.013
+    400026: box.014
+    400028: box.016
+    400030: box.017
+    400032: box.018
+    400034: box.019
+    400036: box.020
+    400038: box.022
+    400040: box.023
+    400042: box.024
+    400044: box.025
+    400046: box.026
+    400048: box.028
+    400050: box.029
+    400052: box.032
+    400054: box.033
+    400056: box.034
+    400058: box.035
+    400060: box.036
+    400062: chair 1
+    400064: door
+    400066: door.001
+    400068: koleso 1
+    400070: koleso 2
+    400072: koleso 3
+    400074: koleso 4
+    400076: lamp kark
+    400078: lamp kark.001
+    400080: List
+    400082: pallet
+    400084: pallet.001
+    400086: pallet.002
+    400088: pallet.003
+    400090: pallet.004
+    400092: pallet.005
+    400094: pallet.006
+    400096: pallet.007
+    400098: Pen
+    400100: potolok
+    400102: room
+    400104: //RootNode
+    400106: Stakan
+    400108: Stand
+    400110: Stand 1
+    400112: Stand 10
+    400114: Stand 11
+    400116: Stand 12
+    400118: Stand 13
+    400120: Stand 14
+    400122: Stand 15
+    400124: Stand 16
+    400126: Stand 17
+    400128: Stand 2
+    400130: Stand 3
+    400132: Stand 4
+    400134: Stand 4.001
+    400136: Stand 5
+    400138: Stand 6
+    400140: Stand 7
+    400142: Stand 7.001
+    400144: Stand 8
+    400146: Stand 9
+    400148: strem
+    400150: Table
+    400152: telega 1
+    2300000: box
+    2300002: box.002
+    2300004: box.003
+    2300006: box.004
+    2300008: box.005
+    2300010: box.006
+    2300012: box.007
+    2300014: box.008
+    2300016: box.009
+    2300018: box.010
+    2300020: box.011
+    2300022: box.012
+    2300024: box.013
+    2300026: box.014
+    2300028: box.016
+    2300030: box.017
+    2300032: box.018
+    2300034: box.019
+    2300036: box.020
+    2300038: box.022
+    2300040: box.023
+    2300042: box.024
+    2300044: box.025
+    2300046: box.026
+    2300048: box.028
+    2300050: box.029
+    2300052: box.032
+    2300054: box.033
+    2300056: box.034
+    2300058: box.035
+    2300060: box.036
+    2300062: chair 1
+    2300064: door
+    2300066: door.001
+    2300068: koleso 1
+    2300070: koleso 2
+    2300072: koleso 3
+    2300074: koleso 4
+    2300076: lamp kark
+    2300078: lamp kark.001
+    2300080: List
+    2300082: pallet
+    2300084: pallet.001
+    2300086: pallet.002
+    2300088: pallet.003
+    2300090: pallet.004
+    2300092: pallet.005
+    2300094: pallet.006
+    2300096: pallet.007
+    2300098: Pen
+    2300100: potolok
+    2300102: room
+    2300104: Stakan
+    2300106: Stand
+    2300108: Stand 1
+    2300110: Stand 10
+    2300112: Stand 11
+    2300114: Stand 12
+    2300116: Stand 13
+    2300118: Stand 14
+    2300120: Stand 15
+    2300122: Stand 16
+    2300124: Stand 17
+    2300126: Stand 2
+    2300128: Stand 3
+    2300130: Stand 4
+    2300132: Stand 4.001
+    2300134: Stand 5
+    2300136: Stand 6
+    2300138: Stand 7
+    2300140: Stand 7.001
+    2300142: Stand 8
+    2300144: Stand 9
+    2300146: strem
+    2300148: Table
+    2300150: telega 1
+    3300000: box
+    3300002: box.002
+    3300004: box.003
+    3300006: box.004
+    3300008: box.005
+    3300010: box.006
+    3300012: box.007
+    3300014: box.008
+    3300016: box.009
+    3300018: box.010
+    3300020: box.011
+    3300022: box.012
+    3300024: box.013
+    3300026: box.014
+    3300028: box.016
+    3300030: box.017
+    3300032: box.018
+    3300034: box.019
+    3300036: box.020
+    3300038: box.022
+    3300040: box.023
+    3300042: box.024
+    3300044: box.025
+    3300046: box.026
+    3300048: box.028
+    3300050: box.029
+    3300052: box.032
+    3300054: box.033
+    3300056: box.034
+    3300058: box.035
+    3300060: box.036
+    3300062: chair 1
+    3300064: door
+    3300066: door.001
+    3300068: koleso 1
+    3300070: koleso 2
+    3300072: koleso 3
+    3300074: koleso 4
+    3300076: lamp kark
+    3300078: lamp kark.001
+    3300080: List
+    3300082: pallet
+    3300084: pallet.001
+    3300086: pallet.002
+    3300088: pallet.003
+    3300090: pallet.004
+    3300092: pallet.005
+    3300094: pallet.006
+    3300096: pallet.007
+    3300098: Pen
+    3300100: potolok
+    3300102: room
+    3300104: Stakan
+    3300106: Stand
+    3300108: Stand 1
+    3300110: Stand 10
+    3300112: Stand 11
+    3300114: Stand 12
+    3300116: Stand 13
+    3300118: Stand 14
+    3300120: Stand 15
+    3300122: Stand 16
+    3300124: Stand 17
+    3300126: Stand 2
+    3300128: Stand 3
+    3300130: Stand 4
+    3300132: Stand 4.001
+    3300134: Stand 5
+    3300136: Stand 6
+    3300138: Stand 7
+    3300140: Stand 7.001
+    3300142: Stand 8
+    3300144: Stand 9
+    3300146: strem
+    3300148: Table
+    3300150: telega 1
+    4300000: Stand 4.001
+    4300002: Stand 7.001
+    4300004: box.036
+    4300006: lamp kark.001
+    4300008: potolok
+    4300010: door.001
+    4300012: List
+    4300014: box.035
+    4300016: box.034
+    4300018: box.033
+    4300020: box.032
+    4300022: box.029
+    4300024: box.028
+    4300026: box.026
+    4300028: box.025
+    4300030: box.024
+    4300032: box.023
+    4300034: box.022
+    4300036: box.020
+    4300038: box.019
+    4300040: box.018
+    4300042: box.017
+    4300044: box.016
+    4300046: box.014
+    4300048: box.013
+    4300050: box.012
+    4300052: box.011
+    4300054: box.010
+    4300056: box.009
+    4300058: box.008
+    4300060: box.007
+    4300062: box.006
+    4300064: box.005
+    4300066: box.004
+    4300068: box.003
+    4300070: box.002
+    4300072: pallet.007
+    4300074: pallet.006
+    4300076: pallet.005
+    4300078: pallet.004
+    4300080: pallet.003
+    4300082: pallet.002
+    4300084: pallet.001
+    4300086: Stand 12
+    4300088: Stand 17
+    4300090: Stand 16
+    4300092: Stand 8
+    4300094: Stand 4
+    4300096: Stand 15
+    4300098: Stand 14
+    4300100: Stand 13
+    4300102: Stand 9
+    4300104: Stand 5
+    4300106: Stand 11
+    4300108: Stand 10
+    4300110: Stand 7
+    4300112: Stand 6
+    4300114: Stand 3
+    4300116: Stand 2
+    4300118: Stand 1
+    4300120: room
+    4300122: Stand
+    4300124: Table
+    4300126: chair 1
+    4300128: pallet
+    4300130: strem
+    4300132: box
+    4300134: Stakan
+    4300136: Pen
+    4300138: koleso 1
+    4300140: koleso 2
+    4300142: koleso 3
+    4300144: koleso 4
+    4300146: telega 1
+    4300148: door
+    4300150: lamp kark
+    6400000: box
+    6400002: box.002
+    6400004: box.003
+    6400006: box.004
+    6400008: box.005
+    6400010: box.006
+    6400012: box.007
+    6400014: box.008
+    6400016: box.009
+    6400018: box.010
+    6400020: box.011
+    6400022: box.012
+    6400024: box.013
+    6400026: box.014
+    6400028: box.016
+    6400030: box.017
+    6400032: box.018
+    6400034: box.019
+    6400036: box.020
+    6400038: box.022
+    6400040: box.023
+    6400042: box.024
+    6400044: box.025
+    6400046: box.026
+    6400048: box.028
+    6400050: box.029
+    6400052: box.032
+    6400054: box.033
+    6400056: box.034
+    6400058: box.035
+    6400060: box.036
+    6400062: chair 1
+    6400064: door
+    6400066: door.001
+    6400068: koleso 1
+    6400070: koleso 2
+    6400072: koleso 3
+    6400074: koleso 4
+    6400076: lamp kark
+    6400078: lamp kark.001
+    6400080: List
+    6400082: pallet
+    6400084: pallet.001
+    6400086: pallet.002
+    6400088: pallet.003
+    6400090: pallet.004
+    6400092: pallet.005
+    6400094: pallet.006
+    6400096: pallet.007
+    6400098: Pen
+    6400100: potolok
+    6400102: room
+    6400104: Stakan
+    6400106: Stand
+    6400108: Stand 1
+    6400110: Stand 10
+    6400112: Stand 11
+    6400114: Stand 12
+    6400116: Stand 13
+    6400118: Stand 14
+    6400120: Stand 15
+    6400122: Stand 16
+    6400124: Stand 17
+    6400126: Stand 2
+    6400128: Stand 3
+    6400130: Stand 4
+    6400132: Stand 4.001
+    6400134: Stand 5
+    6400136: Stand 6
+    6400138: Stand 7
+    6400140: Stand 7.001
+    6400142: Stand 8
+    6400144: Stand 9
+    6400146: strem
+    6400148: Table
+    6400150: telega 1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

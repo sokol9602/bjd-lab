@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bjd-lab.CSharp", "bjd-lab.CSharp.csproj", "{E008EF17-CB92-0DED-A97A-6E5055C8DA78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bjd-lab", "bjd-lab.csproj", "{85B8D4CF-203A-14D6-37E8-5A020D41DD12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E008EF17-CB92-0DED-A97A-6E5055C8DA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E008EF17-CB92-0DED-A97A-6E5055C8DA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E008EF17-CB92-0DED-A97A-6E5055C8DA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E008EF17-CB92-0DED-A97A-6E5055C8DA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B8D4CF-203A-14D6-37E8-5A020D41DD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B8D4CF-203A-14D6-37E8-5A020D41DD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B8D4CF-203A-14D6-37E8-5A020D41DD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B8D4CF-203A-14D6-37E8-5A020D41DD12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

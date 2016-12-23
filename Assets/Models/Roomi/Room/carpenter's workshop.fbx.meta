@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 03162c2e1b5090545b1ed27b757be96b
+timeCreated: 1464106185
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Blackboard
+    100002: Boards
+    100004: Boards.001
+    100006: Box
+    100008: Box.001
+    100010: Box.002
+    100012: Box.003
+    100014: Camera
+    100016: //RootNode
+    100018: Door
+    100020: Hummer
+    100022: Hummer.001
+    100024: Lamp
+    100026: Plane
+    100028: Plane.001
+    100030: Plane.002
+    100032: Poster 1
+    100034: Poster 2
+    100036: Poster 3
+    100038: Poster 4
+    100040: Rack
+    100042: Rack.001
+    100044: Screwdriver
+    100046: Screwdriver.001
+    100048: Tin
+    100050: Tin.001
+    100052: Tin.002
+    100054: Tin.003
+    100056: Tin.004
+    100058: Tin.005
+    100060: Tin.006
+    100062: Tin.007
+    100064: Tin.008
+    100066: Tool Box
+    100068: Tool Box.001
+    100070: Verstak
+    100072: Verstak.001
+    400000: Blackboard
+    400002: Boards
+    400004: Boards.001
+    400006: Box
+    400008: Box.001
+    400010: Box.002
+    400012: Box.003
+    400014: Camera
+    400016: //RootNode
+    400018: Door
+    400020: Hummer
+    400022: Hummer.001
+    400024: Lamp
+    400026: Plane
+    400028: Plane.001
+    400030: Plane.002
+    400032: Poster 1
+    400034: Poster 2
+    400036: Poster 3
+    400038: Poster 4
+    400040: Rack
+    400042: Rack.001
+    400044: Screwdriver
+    400046: Screwdriver.001
+    400048: Tin
+    400050: Tin.001
+    400052: Tin.002
+    400054: Tin.003
+    400056: Tin.004
+    400058: Tin.005
+    400060: Tin.006
+    400062: Tin.007
+    400064: Tin.008
+    400066: Tool Box
+    400068: Tool Box.001
+    400070: Verstak
+    400072: Verstak.001
+    2300000: Blackboard
+    2300002: Boards
+    2300004: Boards.001
+    2300006: Box
+    2300008: Box.001
+    2300010: Box.002
+    2300012: Box.003
+    2300014: Door
+    2300016: Hummer
+    2300018: Hummer.001
+    2300020: Plane
+    2300022: Plane.001
+    2300024: Plane.002
+    2300026: Poster 1
+    2300028: Poster 2
+    2300030: Poster 3
+    2300032: Poster 4
+    2300034: Rack
+    2300036: Rack.001
+    2300038: Screwdriver
+    2300040: Screwdriver.001
+    2300042: Tin
+    2300044: Tin.001
+    2300046: Tin.002
+    2300048: Tin.003
+    2300050: Tin.004
+    2300052: Tin.005
+    2300054: Tin.006
+    2300056: Tin.007
+    2300058: Tin.008
+    2300060: Tool Box
+    2300062: Tool Box.001
+    2300064: Verstak
+    2300066: Verstak.001
+    3300000: Blackboard
+    3300002: Boards
+    3300004: Boards.001
+    3300006: Box
+    3300008: Box.001
+    3300010: Box.002
+    3300012: Box.003
+    3300014: Door
+    3300016: Hummer
+    3300018: Hummer.001
+    3300020: Plane
+    3300022: Plane.001
+    3300024: Plane.002
+    3300026: Poster 1
+    3300028: Poster 2
+    3300030: Poster 3
+    3300032: Poster 4
+    3300034: Rack
+    3300036: Rack.001
+    3300038: Screwdriver
+    3300040: Screwdriver.001
+    3300042: Tin
+    3300044: Tin.001
+    3300046: Tin.002
+    3300048: Tin.003
+    3300050: Tin.004
+    3300052: Tin.005
+    3300054: Tin.006
+    3300056: Tin.007
+    3300058: Tin.008
+    3300060: Tool Box
+    3300062: Tool Box.001
+    3300064: Verstak
+    3300066: Verstak.001
+    4300000: Screwdriver.001
+    4300002: Hummer.001
+    4300004: Tool Box.001
+    4300006: Verstak.001
+    4300008: Rack.001
+    4300010: Box.003
+    4300012: Box.002
+    4300014: Box.001
+    4300016: Plane.002
+    4300018: Plane.001
+    4300020: Plane
+    4300022: Blackboard
+    4300024: Poster 1
+    4300026: Poster 2
+    4300028: Poster 4
+    4300030: Box
+    4300032: Boards
+    4300034: Boards.001
+    4300036: Rack
+    4300038: Verstak
+    4300040: Door
+    4300042: Poster 3
+    4300044: Tin
+    4300046: Tin.001
+    4300048: Tin.002
+    4300050: Tin.003
+    4300052: Tin.004
+    4300054: Tin.005
+    4300056: Tin.006
+    4300058: Tin.007
+    4300060: Tin.008
+    4300062: Tool Box
+    4300064: Hummer
+    4300066: Screwdriver
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
